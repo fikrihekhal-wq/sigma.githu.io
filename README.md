@@ -1,1 +1,1 @@
-# sigma.githu.io
+# sigma.github.io
